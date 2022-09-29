@@ -1,2 +1,0 @@
-# -SyncVR
-Assignment
